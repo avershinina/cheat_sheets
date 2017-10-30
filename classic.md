@@ -51,6 +51,9 @@ https://qcb.ucla.edu/wp-content/uploads/sites/14/2016/03/IntroductiontoVariantCa
 https://gatkforums.broadinstitute.org/gatk/discussion/2806/howto-apply-hard-filters-to-a-call-set
 #### Best Practices - VQSR
 https://gatkforums.broadinstitute.org/gatk/discussion/comment/32399
+#### Multi-sample calling
+https://gatkforums.broadinstitute.org/gatk/discussion/2776/multi-sample-calling-vs-single-sample-calling
+
 
 #### Visualize it!
 https://software.broadinstitute.org/gatk/documentation/article.php?id=6925
