@@ -63,4 +63,9 @@ https://www.datacamp.com/courses/reporting-with-r-markdown/
 #### notebooks
 https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/
 
+# MySQL
+#### get Genome Browser to work via mysql
+https://www.biostars.org/p/4544/
+
+
 
