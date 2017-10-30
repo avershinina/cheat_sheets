@@ -1,6 +1,9 @@
 # Coalescence
 http://www.popgen.wzw.tum.de/fileadmin/pdf/Tellier-Lecture3-Coalescent-Mutations-EffectPopSize.pdf
 # ANGST
+
+#### Intro
+https://cgrlucb.wikispaces.com/file/view/CGRL_SNP_workshop.pdf
 #### fST
 #### Nucleotide diversity
 https://github.com/mfumagalli/ngsTools/blob/master/TUTORIAL.md
