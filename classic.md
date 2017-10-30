@@ -17,6 +17,10 @@ http://www.popgen.dk/angsd/index.php/Thetas,Tajima,Neutrality_tests
 #### SFS
 https://github.com/ANGSD/angsd/wiki/SFS
 
+#### ABBA
+http://www.popgen.dk/angsd/index.php/Abbababa
+
+
 # Watterson thetha
 https://www.biostars.org/p/150600/
 
@@ -36,6 +40,9 @@ https://www.biostars.org/p/73678/
 # Variant Calling
 #### General pipeline and trutorial
 http://cbsu.tc.cornell.edu/lab/doc/variant_workshop_part2.pdf
+
+https://gencore.bio.nyu.edu/tag/gatk/
+
 #### GATK tutorial
 https://qcb.ucla.edu/wp-content/uploads/sites/14/2016/03/IntroductiontoVariantCallsetEvaluationandFilteringTutorialAppendix-LA2016.pdf
 #### Best Practices - how to apply hard filters
