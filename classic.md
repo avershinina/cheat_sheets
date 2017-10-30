@@ -16,6 +16,8 @@ http://www.popgen.dk/angsd/index.php/Thetas,Tajima,Neutrality_tests
 
 #### SFS
 https://github.com/ANGSD/angsd/wiki/SFS
+#### SFS - theory 
+https://math.la.asu.edu/~jtaylor/teaching/Spring2017/BIO545/lectures/frequencies.pdf
 
 #### ABBA
 http://www.popgen.dk/angsd/index.php/Abbababa
