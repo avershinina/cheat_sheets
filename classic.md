@@ -22,6 +22,11 @@ https://www.biostars.org/p/150600/
 
 https://www.biostars.org/p/178983/
 
+# PLINK
+#### ROH
+http://zzz.bwh.harvard.edu/plink/ibdibs.shtml#homo
+
+
 
 # Raxml tree making
 #### Generate A Tree With Bootstrap
