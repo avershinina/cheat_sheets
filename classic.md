@@ -56,4 +56,11 @@ https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_13_1
 
 # LaTeX
 
+# R Markdown
+
+https://www.datacamp.com/courses/reporting-with-r-markdown/
+
+#### notebooks
+https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/
+
 
