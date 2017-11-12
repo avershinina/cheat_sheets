@@ -20,4 +20,7 @@
 
     localhost:8888
     # you will see your notebooks in your given directory
+    
+    
+    MAKE SURE U USE /bin/bash and correct version of python
 
