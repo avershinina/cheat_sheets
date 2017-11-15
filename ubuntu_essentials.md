@@ -10,3 +10,7 @@
 # Tools
 
 ## R, python and jupyter
+
+## Social
+* slack
+* yakyak for hangouts 
