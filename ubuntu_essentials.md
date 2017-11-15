@@ -1,3 +1,12 @@
+# Burn the stick
+
+get stick path: 
+lsblk
+
+then:
+sudo dd if=~/Desktop/linuxmint.iso of=/dev/sdX oflag=direct  bs=1048576
+
+
 # Start
 
 * Update drivers
