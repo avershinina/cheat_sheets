@@ -36,10 +36,11 @@ pip3 install jupyter
 ### Install jupyter to work with R
 . apt-get -y install libcurl4-gnutls-dev
 . install.packages("devtools", dependencies = TRUE)
-. 
-
-
 
 ## Social
 * slack
 * yakyak for hangouts 
+
+## Connect to server
+Create necessary aliases, such as f.ex:
+* alias bash2server = 'ssh -t host.edu /bin/bash'
