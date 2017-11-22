@@ -43,4 +43,4 @@ pip3 install jupyter
 
 ## Connect to server
 Create necessary aliases, such as f.ex:
-* alias bash2server = 'ssh -t host.edu /bin/bash'
+* alias bash2server = 'ssh -t you@host.edu /bin/bash'
