@@ -1,7 +1,9 @@
+# Where to start - for noobies
+http://online-learning.harvard.edu/series/xseries-data-analysis
+
 # Coalescence
 http://www.popgen.wzw.tum.de/fileadmin/pdf/Tellier-Lecture3-Coalescent-Mutations-EffectPopSize.pdf
 # ANGST
-
 #### Intro
 https://cgrlucb.wikispaces.com/file/view/CGRL_SNP_workshop.pdf
 #### fST
