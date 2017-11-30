@@ -2,7 +2,11 @@
 http://online-learning.harvard.edu/series/xseries-data-analysis
 
 # Coalescence
+### Fast intro   
 http://www.popgen.wzw.tum.de/fileadmin/pdf/Tellier-Lecture3-Coalescent-Mutations-EffectPopSize.pdf
+### Classic papers
+#### Hudson - Gene genealogies and the coalescent process
+* http://home.uchicago.edu/rhudson1/popgen356/OxfordSurveysEvolBiol7_1-44.pdf
 # ANGST
 #### Intro
 https://cgrlucb.wikispaces.com/file/view/CGRL_SNP_workshop.pdf
