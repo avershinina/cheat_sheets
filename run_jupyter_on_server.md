@@ -14,3 +14,6 @@ Browser:
 * make alias in your bashrc file for ssh, such as alias servernotebook='ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name
 '
 
+#### Close port that is in use
+* sudo kill $(sudo lsof -t -i:8888)  
+where 8888 is port #
