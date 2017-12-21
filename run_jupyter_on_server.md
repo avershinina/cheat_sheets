@@ -1,6 +1,6 @@
 ### make sure you install Jupyter notebook in both remote (working station in your offcie) and local (your home computer)
 In remote host, open the terminal, change directory to where you have your notebooks and type:
-#### MAKE SURE U USE /bin/bash and correct version of python
+#### MAKE SURE U USE /bin/bash and correct version of python if you aim to run msprime
 * jupyter notebook --no-browser --port=8889
 ##### you should leave the this open
 In your local computer:
