@@ -2,8 +2,8 @@
 #### MAKE SURE U USE /bin/bash and correct version of python if you aim to run msprime
 ```
 jupyter notebook --no-browser --port=8889
+# you should leave it open
 ```
-##### you should leave the this open
 In your local computer:
 ```
 ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name
