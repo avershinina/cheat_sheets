@@ -17,7 +17,8 @@ localhost:8888
 
 #### Hint: to simplify things:
 * make alias in your bashrc file for ssh, such as 
-```alias servernotebook='ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name
+```
+alias servernotebook='ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name
 ```
 
 #### Close port that is in use
