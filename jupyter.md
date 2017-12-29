@@ -27,3 +27,11 @@ where 8888 is port #
 sudo kill $(sudo lsof -t -i:8888)  
 ```
 
+#### Display several images from a directory
+```python
+from IPython.display import Image, HTML, display
+from glob import glob
+imagesList=''.join( ["<img style='width: 800px; margin: 0px; float: left; border: 1px solid black;' src='%s' />" % str(s) 
+                 for s in sorted(glob('bcfstats*.png')) ])
+display(HTML(imagesList))
+```
