@@ -1,10 +1,10 @@
 **Table of Contents** 
-- [General](#)
-	- [Browser:](#)
-	- [Hint: to simplify things:](#)
-	- [Close port that is in use](#)
-- [Hints](#)
-	- [Display several images from a directory](#)
+- [General](#General)
+	- [Browser:](#Browser)
+	- [Hint: to simplify things:](#Hint: to simplify things:)
+	- [Close port that is in use](#Close port that is in use)
+- [Hints](#Hints)
+	- [Display several images from a directory](#isplay several images from a directory)
   
 ### General
 > make sure you install Jupyter notebook in both remote (your server) and local (your personal workstation) computer
