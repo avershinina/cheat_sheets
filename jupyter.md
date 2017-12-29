@@ -1,3 +1,4 @@
+###General
 > make sure you install Jupyter notebook in both remote (your server) and local (your personal workstation) computer
 > MAKE SURE U USE **/bin/bash** and correct version of python if you aim to run msprime
 ```bash
@@ -27,7 +28,7 @@ where 8888 is port #
 ```bash
 sudo kill $(sudo lsof -t -i:8888)  
 ```
-
+### Hints
 #### Display several images from a directory
 ```python
 from IPython.display import Image, HTML, display
