@@ -1,5 +1,5 @@
-### make sure you install Jupyter notebook in both remote (working station in your offcie) and local (your home computer)
-#### MAKE SURE U USE /bin/bash and correct version of python if you aim to run msprime
+> make sure you install Jupyter notebook in both remote (working station in your offcie) and local (your home computer)
+> MAKE SURE U USE **/bin/bash** and correct version of python if you aim to run msprime
 ```
 jupyter notebook --no-browser --port=8889
 # you should leave it open
