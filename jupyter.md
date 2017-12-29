@@ -1,6 +1,6 @@
 > make sure you install Jupyter notebook in both remote (your server) and local (your personal workstation) computer
 > MAKE SURE U USE **/bin/bash** and correct version of python if you aim to run msprime
-```
+```bash
 jupyter notebook --no-browser --port=8889
 # you should leave it open
 ```
@@ -12,19 +12,19 @@ ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name
 ```
 
 #### Browser:
-```
+```bash
 localhost:8888
 ```
 
 #### Hint: to simplify things:
 * make alias in your bashrc file for ssh, such as 
-```
-alias servernotebook='ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name
+```bash
+alias servernotebook='ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name'
 ```
 
 #### Close port that is in use
 where 8888 is port #
-```
+```bash
 sudo kill $(sudo lsof -t -i:8888)  
 ```
 
