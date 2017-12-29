@@ -1,4 +1,4 @@
-###General
+### General
 > make sure you install Jupyter notebook in both remote (your server) and local (your personal workstation) computer
 > MAKE SURE U USE **/bin/bash** and correct version of python if you aim to run msprime
 ```bash
