@@ -1,9 +1,9 @@
 - [General](#general)
   * [Browser:](#browser-)
   * [Alias](#alias)
-  * [Close port that is in use](#close-port-that-is-in-use)
+  * [Close ports](#close-port-that-is-in-use)
 - [Hints](#hints)
-  * [Display several images from a directory](#display-several-images-from-a-directory)
+  * [Display several images](#display-several-images-from-a-directory)
 
 
 ### General
