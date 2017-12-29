@@ -1,11 +1,11 @@
-**Table of Contents** 
-- [General](#General)
-	- [Browser:](#Browser)
-	- [Hint: to simplify things:](#Hint: to simplify things:)
-	- [Close port that is in use](#Close port that is in use)
-- [Hints](#Hints)
-	- [Display several images from a directory](#isplay several images from a directory)
-  
+- [General](#general)
+  * [Browser:](#browser-)
+  * [Hint: to simplify things:](#hint--to-simplify-things-)
+  * [Close port that is in use](#close-port-that-is-in-use)
+- [Hints](#hints)
+  * [Display several images from a directory](#display-several-images-from-a-directory)
+
+
 ### General
 > make sure you install Jupyter notebook in both remote (your server) and local (your personal workstation) computer
 > MAKE SURE U USE **/bin/bash** and correct version of python if you aim to run msprime
