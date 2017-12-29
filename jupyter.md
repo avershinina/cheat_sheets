@@ -7,10 +7,10 @@ jupyter notebook --no-browser --port=8889
 In your local computer:
 ```
 ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name
-```
-##### make sure to change `username` to your real username in remote host
-##### change `your_remote_host_name` to your address of your working station
-Browser:
+# make sure to change `username` to your real username in remote host
+# change `your_remote_host_name` to your address of your working station
+
+#### Browser:
 ```
 localhost:8888
 ```
