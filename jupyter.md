@@ -1,6 +1,6 @@
 - [General](#general)
   * [Browser:](#browser-)
-  * [Hint: to simplify things:](#hint--to-simplify-things-)
+  * [Alias](#alias)
   * [Close port that is in use](#close-port-that-is-in-use)
 - [Hints](#hints)
   * [Display several images from a directory](#display-several-images-from-a-directory)
@@ -25,8 +25,8 @@ ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name
 localhost:8888
 ```
 
-#### Hint: to simplify things:
-* make alias in your bashrc file for ssh, such as 
+#### Alias
+Hint: to simplify connection process make alias in your bashrc file for ssh, such as 
 ```bash
 alias servernotebook='ssh -N -f -L localhost:8888:localhost:8889 username@your_remote_host_name'
 ```
