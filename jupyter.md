@@ -4,7 +4,7 @@
   * [Close ports](#close-port-that-is-in-use)
 - [Hints](#hints)
   * [Display several images](#display-several-images-from-a-directory)
-  * [Multiple coursors](#Multiple-coursors)
+  * [Multiple coursors](#multiple-coursors)
 
 
 ### General
