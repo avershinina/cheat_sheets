@@ -4,6 +4,7 @@
   * [Close ports](#close-port-that-is-in-use)
 - [Hints](#hints)
   * [Display several images](#display-several-images-from-a-directory)
+  * [Multiple coursors](#Multiple-coursors)
 
 
 ### General
@@ -45,3 +46,5 @@ imagesList=''.join( ["<img style='width: 800px; margin: 0px; float: left; border
                  for s in sorted(glob('bcfstats*.png')) ])
 display(HTML(imagesList))
 ```
+#### Multiple coursors
+cntr + click
