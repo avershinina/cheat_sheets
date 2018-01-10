@@ -37,6 +37,13 @@ pip3 install jupyter
 . apt-get -y install libcurl4-gnutls-dev
 . install.packages("devtools", dependencies = TRUE)
 
+### Sublime 
+#### additional packages
+* wordhighlight
+* markdown editing
+* alignment - to align comments and variables, makes the script less messy (cntrl + alt + A)
+
+
 ## Social
 * slack
 * yakyak for hangouts 
