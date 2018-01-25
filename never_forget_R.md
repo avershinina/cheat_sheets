@@ -23,6 +23,13 @@ colors <- c("#999999", "#E69F00", "#56B4E9", "#555555")
 colors <- colors[as.numeric(df$yourfactor)]
 scatterplot3d(PC1,PC2, PC3, main="3D Scatterplot",color = colors,box=FALSE)
 ```
+# Save figures automatically in Rmd
+Add this in the beginning of .Rmd file
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  fig.path = "images/"
+)
+```
 
 # Multiple plots in Rmd
 This is stolen from [r cookbook](http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/)
