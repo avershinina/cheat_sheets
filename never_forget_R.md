@@ -25,6 +25,7 @@ scatterplot3d(PC1,PC2, PC3, main="3D Scatterplot",color = colors,box=FALSE)
 ```
 # Save figures automatically in Rmd
 Add this in the beginning of .Rmd file
+```{r}
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   fig.path = "images/"
