@@ -51,3 +51,16 @@ pip3 install jupyter
 ## Connect to server
 Create necessary aliases, such as f.ex:
 * alias bash2server = 'ssh -t you@host.edu /bin/bash'
+
+### Current aliases
+alias subl=/path/sublime_text
+alias ms=/path/ms
+alias python=python3
+alias server='ssh server.uni.edu'
+alias server2='ssh server.uni.edu'
+alias bash2server='ssh -t avershinina@server.uni.edu /bin/bash'
+alias notebook2server2='ssh -N -f -L localhost:8888:localhost:8889 avershinina@server2.uni.edu'
+
+
+## Env
+https://nextsource.deviantart.com/art/Xubuntu-16-04-Desktop-617632029
