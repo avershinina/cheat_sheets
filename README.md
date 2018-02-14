@@ -5,3 +5,4 @@ to remember how to do stuff
 * For programming and data analysis - use jupyter + rstudio
 * For bibliography - use OneNote web app to keep track of notes, 
 * For papers - Mendeley, if google-docs - paperpile.
+* Do not know which method to use? - http://methodspopgen.com/
