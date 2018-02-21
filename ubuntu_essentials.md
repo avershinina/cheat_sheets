@@ -23,23 +23,27 @@ sudo dd if=~/Desktop/linuxmint.iso of=/dev/sdX oflag=direct  bs=1048576
 https://askubuntu.com/questions/218708/installing-latest-version-of-r-base
 
 ### Install R studio 
-. sudo apt install libjpeg62
-. wget --tries=3 --timeout=120 https://download1.rstudio.org/rstudio-xenial-1.1.383-amd64.deb
-. sudo dpkg -i rstudio-*-amd64.deb
+```
+sudo apt install libjpeg62
+wget --tries=3 --timeout=120 https://download1.rstudio.org/rstudio-xenial-1.1.383-amd64.deb
+sudo dpkg -i rstudio-*-amd64.deb
+```
 
 ### Installing jupyter
 **Change python alias to python3**
-
+```
 pip3 install --upgrade pip
 pip3 install jupyter
-
+```
 ### Install jupyter to work with R
-. apt-get -y install libcurl4-gnutls-dev
-. install.packages("devtools", dependencies = TRUE)
-
+```
+apt-get -y install libcurl4-gnutls-dev
+install.packages("devtools", dependencies = TRUE)
+```
 ### Numpy and other
-. python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
-
+```
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+```
 ### Sublime 
 #### additional packages
 * wordhighlight
