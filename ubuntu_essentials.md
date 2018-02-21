@@ -37,6 +37,9 @@ pip3 install jupyter
 . apt-get -y install libcurl4-gnutls-dev
 . install.packages("devtools", dependencies = TRUE)
 
+### Numpy and other
+. python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+
 ### Sublime 
 #### additional packages
 * wordhighlight
