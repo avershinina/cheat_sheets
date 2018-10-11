@@ -21,3 +21,8 @@ sed -i '1d' filename
 ```
 sed -i '$ d' foo.txt
 ```
+
+## remove Ns from non-interleaved fasta
+```
+ sed -e '/^>/! s/[Nn]//g'
+```
