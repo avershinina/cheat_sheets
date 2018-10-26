@@ -6,6 +6,8 @@ to remember how to do stuff
 * For bibliography - use OneNote web app to keep track of notes, 
 * For papers - Mendeley, if google-docs - paperpile.
 * Do not know which method to use? - http://methodspopgen.com/
+* Play with popgen! http://www.phytools.org/PopGen/
+
 
 # Bashrc
 
