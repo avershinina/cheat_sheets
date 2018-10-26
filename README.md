@@ -8,7 +8,8 @@ to remember how to do stuff
 * Do not know which method to use? - http://methodspopgen.com/
 * Play with popgen! http://www.phytools.org/PopGen/
 
-
+# Git timesaver:
+git add . ; git commit -a -m NOTE; git push origin
 # Bashrc
 
 ```bash
