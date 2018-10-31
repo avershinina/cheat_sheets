@@ -21,3 +21,13 @@ alias grep='grep --color=auto'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 ```
+# $PATH
+To list a program in PATH variable, for example bedtools:
+```bash
+echo 'PATH=/bedtools/path/bin:$PATH' >> ~/.bash_profile
+source ~/.bash_profile
+```
+This is incorrect:
+```bash
+echo 'PATH=/bedtools/path/bin/bedtools:$PATH' >> ~/.bash_profile
+```
