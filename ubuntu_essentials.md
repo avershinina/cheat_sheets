@@ -71,3 +71,6 @@ alias notebook2server2='ssh -N -f -L localhost:8888:localhost:8889 avershinina A
 
 ## Env
 https://nextsource.deviantart.com/art/Xubuntu-16-04-Desktop-617632029
+
+## Bluetooth problems
+If you are messing up with the freaking Broadcom adapter, after installing and reinstalling you should not REBOOT the machine. Shut it down and start again [according to this thread](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1508799;kwlgupoerqgh). Reboot does not work. 
