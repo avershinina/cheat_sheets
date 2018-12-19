@@ -8,8 +8,16 @@ to remember how to do stuff
 * Do not know which method to use? - http://methodspopgen.com/
 * Play with popgen! http://www.phytools.org/PopGen/
 
+# Git save credentials
+use credential helper:
+```
+https://help.github.com/articles/caching-your-github-password-in-git/
+https://stackoverflow.com/questions/6565357/git-push-requires-username-and-password
+```
+
 # Git timesaver:
 git add . ; git commit -a -m NOTE; git push origin
+
 # Bashrc
 
 ```bash
