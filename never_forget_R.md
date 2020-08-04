@@ -82,3 +82,10 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
 }
 
 ```
+# Subset dataframe by a column in another dataframe
+```{R}
+o <- read.csv2("big_df.tsv", header=T, sep="\t")
+q <- read.csv2("query.txt", header = T)
+library(tidyverse)
+j <- q%>% left_join(o, by='Columnname')
+```
