@@ -1,8 +1,8 @@
 # the SET UP
 to remember how to do stuff
 
-* For writing - use ShareLaTeX
-* For programming and data analysis - use jupyter + rstudio
+* For writing - typora + markdown\lalex
+* For programming and data analysis - use jupyter + rstudio + sublimeText
 * For bibliography - use typora + markdown
 * For papers - Mendeley, if google-docs - paperpile.
 * Do not know which method to use? - http://methodspopgen.com/
@@ -11,6 +11,9 @@ to remember how to do stuff
 # Command line
 Use ZSH
 https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4
+
+# PopOS
+Fix update glitch: https://www.reddit.com/r/pop_os/comments/hg863j/pop_shop_update_glitch/
 
 # Git save credentials
 use credential helper:
