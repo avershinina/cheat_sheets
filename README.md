@@ -12,6 +12,11 @@ to remember how to do stuff
 Use ZSH
 https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4
 
+Are you in Screen and can't see where you're at?
+```
+export PS1="\u@\h:\w>"
+```
+
 # PopOS
 Fix update glitch: https://www.reddit.com/r/pop_os/comments/hg863j/pop_shop_update_glitch/
 
